@@ -1,7 +1,6 @@
 # EjercicioWindowsServer2008
 
-Organizacion del dominio con los usuarios y los grupos:  
-org:  
+Organizacion del dominio con los usuarios y los grupos:   
 ![org](org.png)
   
 Usuario 1:  
